@@ -1,0 +1,6 @@
+{
+  "name": "Smart Finance Tracker Pro",
+  "description": "تطبيق احترافي لإدارة المصروفات والدخل والأهداف المالية والتقارير بمستوى التطبيقات العالمية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
